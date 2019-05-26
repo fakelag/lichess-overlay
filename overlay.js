@@ -223,7 +223,7 @@ const initOptionsMenu = () => {
     form.setAttribute('style', 'width:500px');
     form.innerHTML = ` \
 <input type="checkbox" id="lo_show_move" name="lo_show_move">Show my moves</input><br /> \
-<input type="checkbox" id="lo_show_ponder" name="lo_show_ponder">Show opponent's moves</input> <br />
+<input type="checkbox" id="lo_show_ponder" name="lo_show_ponder">Show opponent's moves</input> <br /> \
 <input type="checkbox" id="lo_show_bestmove" name="lo_show_bestmove" disabled>Stockfish recommendation (Coming Soon)</input> <br />\
 Render engine: <select id="lo_renderer"> \
   <option value="svg">Svg</option> \
