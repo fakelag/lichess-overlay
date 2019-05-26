@@ -1,6 +1,6 @@
 # Lichess Overlay
 
-A project skeleton for full-stack web development using TypeScript, GraphQL, MongoDB and React.
+Configurable lichess overlay for highlighting potential moves & captures.
 
 ## Languages
 * JavaScript
